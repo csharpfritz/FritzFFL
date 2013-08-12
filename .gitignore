@@ -89,6 +89,7 @@ csx
 AppPackages/
 
 # Others
+lib/
 [Bb]in
 [Oo]bj
 sql

@@ -1,0 +1,32 @@
+1	Seattle Defense	SEA	12	 145.0
+2	Denver Defense	DEN	9	 137.0
+3	Chicago Defense	CHI	8	 136.0
+4	San Fran Defense	SF	9	 131.0
+5	New England Defense	NE	10	 130.0
+6	Cincinnati Defense	CIN	12	 125.0
+7	Houston Defense	HOU	8	 125.0
+8	St. Louis Defense	STL	11	 124.0
+9	Green Bay Defense	GB	4	 121.0
+10	Baltimore Defense	BAL	8	 117.0
+11	Arizona Defense	ARI	9	 116.0
+12	Pittsburgh Defense	PIT	5	 116.0
+13	Ny Giants Defense	NYG	9	 114.0
+14	Tampa Bay Defense	TB	5	 108.0
+15	Cleveland Defense	CLE	10	 107.0
+16	Dallas Defense	DAL	11	 107.0
+17	Miami Defense	MIA	6	 106.0
+18	Minnesota Defense	MIN	5	 102.0
+19	Atlanta Defense	ATL	6	 100.0
+20	Buffalo Defense	BUF	12	 100.0
+21	Ny Jets Defense	NYJ	10	 99.0
+22	Philadelphia Defense	PHI	12	 98.0
+23	San Diego Defense	SD	8	 98.0
+24	Washington Defense	WAS	5	 98.0
+25	Kansas City Defense	KC	10	 97.0
+26	Detroit Defense	DET	9	 96.0
+27	New Orleans Defense	NO	7	 96.0
+28	Carolina Defense	CAR	4	 95.0
+29	Indianapolis Defense	IND	8	 91.0
+30	Tennessee Defense	TEN	8	 89.0
+31	Jacksonville Defense	JAX	9	 73.0
+32	Oakland Defense	OAK	7	 72.0
